@@ -4,5 +4,16 @@
   "artist": "Artist",
   "author": "Author",
   "cover": "https://example.org",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": 1620073901627,
+      "groups": {
+        "Group name": [
+          "https://example.org"
+        ]
+      }
+    }
+  }
 }
