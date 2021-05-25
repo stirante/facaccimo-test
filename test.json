@@ -8,9 +8,19 @@
     "1": {
       "title": "Chapter 1",
       "volume": "1",
-      "last_updated": "1621966813",
+      "last_updated": "1621966908",
       "groups": {
         "Group name": "/proxy/api/imgur/chapter/Q2PIjCC/"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1621966923",
+      "groups": {
+        "Group name": [
+          "https://example.com"
+        ]
       }
     }
   }
