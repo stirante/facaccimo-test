@@ -16,10 +16,10 @@
     "2": {
       "title": "2",
       "volume": "1",
-      "last_updated": "1621966923",
+      "last_updated": "1621967167",
       "groups": {
         "Group name": [
-          "https://example.com"
+          "https://example.com/test.png"
         ]
       }
     }
