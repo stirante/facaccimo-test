@@ -1,0 +1,105 @@
+{
+  "title": "Nirugame",
+  "description": "",
+  "artist": "",
+  "author": "Sanka Kumaru",
+  "cover": "https://i.imgur.com/mPufEjb.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1622011827",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/1lPK0c4/"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1622011859",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/POXKPeY/"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1622011872",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/W0x4Iie/"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1622011885",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/rfBofzr/"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1622011901",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/4gxS9nt/"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1622011934",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/b9REJTd/"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1622011946",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/A9RMHIn/"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "1",
+      "last_updated": "1622011958",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/oIiNKbi/"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "1",
+      "last_updated": "1622011976",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/ANDjC0k/"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "1",
+      "last_updated": "1622011994",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/WFzwGbh/"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "1",
+      "last_updated": "1622012013",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/8sgPzXR/"
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "1",
+      "last_updated": "1622012026",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/gxCyY2p/"
+      }
+    }
+  }
+}
