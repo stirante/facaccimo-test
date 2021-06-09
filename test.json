@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "2",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1621967167",
       "groups": {
         "Group name": [
@@ -25,7 +25,7 @@
     },
     "3": {
       "title": "Chapter 3",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1621974956",
       "groups": {
         "Group name": "/proxy/api/imgur/chapter/asdfgh/"
