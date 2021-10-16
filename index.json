@@ -1,12 +1,13 @@
 [
   {
     "file": "HumanHatingDemon.json",
+    "seriesUrl": "https://cubari.moe/proxy/gist/JGgdo/",
     "title": "The Human-hating Demon Lord Has No Mercy For Little Girls",
     "description": "The Human-hating Demon Lord Has No Mercy For Little Girls",
     "artist": "@aya_gon",
     "author": "@aya_gon",
     "cover": "https://i.redd.it/v8g2xkelbz071.png",
-    "chapters": 10,
+    "chapters": 9,
     "lastChapterIndex": "10",
     "lastChapter": {
       "title": "10",
@@ -23,6 +24,7 @@
   },
   {
     "file": "test.json",
+    "seriesUrl": "https://cubari.moe/proxy/gist/JGvOd/",
     "title": "Test",
     "description": "Description",
     "artist": "Artist",
