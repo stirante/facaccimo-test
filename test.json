@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/5PxptFr.png",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "MangaDex test",
       "volume": "1",
       "last_updated": "1621966908",
       "groups": {
@@ -14,31 +14,28 @@
       }
     },
     "2": {
-      "title": "2",
+      "title": "MangaKatana Test",
       "volume": "2",
       "last_updated": "1634367251",
       "groups": {
-        "Group name": "/proxy/api/mangabox/manga/martial-peak/chapter-1595/"
+        "Group name": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva2FyYWthaS1qb3V6dS1uby1tb3RvLXRha2FnaS1zYW4uMTkzMzIvYzIwMS8=/"
       }
     },
     "3": {
-      "title": "Chapter 3",
+      "title": "MangaSee test",
       "volume": "2",
       "last_updated": "1623360356",
       "groups": {
-        "Group name": "/proxy/api/imgur/chapter/asdfgh/"
+        "Group name": "/proxy/api/mangasee/chapter/Komi-san-Wa-Komyushou-Desu-chapter-325"
       }
     },
     "4": {
-      "title": "4",
+      "title": "Imgur test",
       "volume": "2",
-      "last_updated": "1634367251",
+      "last_updated": "1634372318",
       "groups": {
-        "Group name": "/proxy/api/mangasee/chapter/Komi-san-Wa-Komyushou-Desu-chapter-325/"
+        "Group name": "/proxy/api/imgur/chapter/FyQsgKQ"
       }
     }
-  },
-  "next_release_page": true, 
-  "next_release_time": 1634837716.640018, 
-  "next_release_html": "<h2>You're caught up!</h2>\r\n<p>This series' release schedule:</p>\r\n<div class=\"timer\">Weekly</div>\r\n<a href=\"https://discord.gg/2kBHE3ur5q\" target=\"_blank\"><span style=\"font-family: 'inline-icons'\">\ud83d\udde8 </span> Join Discord</a>\r\n<a href=\"https://twitter.com/Oshinoko_info\" target=\"_blank\"><span style=\"font-family: 'inline-icons'\">\ud83d\udc26 </span> Fan Twitter</a>\r\n<br /><br />\r\n<a href=\"https://bookwalker.jp/series/253803/\" target=\"_blank\"><span style=\"font-family: 'inline-icons'\">\u2764 </span> Buy the official volumes</a>\r\n<a href=\"https://tonarinoyj.jp/episode/13933686331626273051\" target=\"_blank\"><span style=\"font-family: 'inline-icons'\">\u2764 </span> Read the official web release</a>"
+  }
 }
