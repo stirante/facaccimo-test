@@ -28,6 +28,14 @@
       "groups": {
         "Group name": "/proxy/api/imgur/chapter/asdfgh/"
       }
+    },
+    "4": {
+      "title": "4",
+      "volume": "2",
+      "last_updated": "1634367251",
+      "groups": {
+        "Group name": "/proxy/api/mangasee/chapter/Komi-san-Wa-Komyushou-Desu-chapter-325/"
+      }
     }
   },
   "next_release_page": true, 
