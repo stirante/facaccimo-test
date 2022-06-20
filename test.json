@@ -36,6 +36,23 @@
       "groups": {
         "Group name": "/proxy/api/imgur/chapter/FyQsgKQ"
       }
+    },
+    "5": {
+      "title": "5",
+      "volume": "2",
+      "last_updated": "1655756539",
+      "groups": {
+        "Group name": [
+          "https://i.redd.it/g635eks1xr691.png",
+          "https://i.redd.it/0fskqks1xr691.png",
+          "https://i.redd.it/ivaqgls1xr691.png",
+          "https://i.redd.it/8de7sms1xr691.png",
+          "https://i.redd.it/fm4f5ls1xr691.png",
+          "https://i.redd.it/rw9enls1xr691.png",
+          "https://i.redd.it/ktffbiu1xr691.png",
+          "https://i.redd.it/k0gepos1xr691.png"
+        ]
+      }
     }
   }
 }
